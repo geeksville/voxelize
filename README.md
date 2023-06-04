@@ -64,6 +64,8 @@ Before starting, make sure to install the following:
 git clone https://github.com/shaoruu/voxelize.git
 cd voxelize
 
+npm install -g pbts pbjs
+
 # download dependencies
 yarn
 
