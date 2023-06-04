@@ -26,7 +26,6 @@
     "websocket": "^1.0.34"
   },
   "devDependencies": {
-    "@types/protobufjs": "^6.0.0",
     "@types/websocket": "^1.0.5",
     "protobufjs-cli": "^1.1.1"
   }
